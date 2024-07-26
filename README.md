@@ -12,3 +12,9 @@ In this task I have made a TODO List Application using HTML, CSS, Javascript, PH
 - Retreives data from the database and displays it on screen in the form of a list.
 - Deletes a task from the database.
 
+### Task 3: 
+In this task I have made a Business Information Application using HTML, CSS, Javascript, PHP and MySQL that:
+- Allows users to view and search businesses by category and location.
+- Admin panel to add cities, towns, business categories, and business profiles.
+- Features sections for top businesses in food, schools, and real estate.
+- Built using PHP and MySQL for data management and retrieval.
