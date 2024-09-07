@@ -18,3 +18,11 @@ In this task I have made a Business Information Application using HTML, CSS, Jav
 - Admin panel to add cities, towns, business categories, and business profiles.
 - Features sections for top businesses in food, schools, and real estate.
 - Built using PHP and MySQL for data management and retrieval.
+
+### Task 4:
+In this task, I have made a Library Management System using HTML, CSS, JavaScript, PHP, and MySQL that:
+
+- Allows users (students and teachers) to view and borrow books.
+- Admin panel to manage users (students and teachers), add books with details like title, pages, publisher, author, and edition.
+- Features options for admins to view, edit, and search for books.
+- Built using PHP and MySQL for data management and retrieval.
