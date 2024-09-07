@@ -1,0 +1,177 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+h1, h2, h3 {
+    color: #007BFF;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Buttons */
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #007BFF;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+/* Forms */
+form {
+    margin-top: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-group input,
+.form-group select,
+.form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.form-group textarea {
+    height: 100px;
+    resize: vertical;
+}
+
+.message {
+    color: #d9534f;
+    margin-bottom: 20px;
+}
+
+/* Tables */
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.table th,
+.table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+.table th {
+    background-color: #007BFF;
+    color: #fff;
+}
+
+/* Header */
+header {
+    background: #007BFF;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+}
+
+/* Footer */
+footer {
+    background: #007BFF;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Login and Signup Pages */
+.login-form,
+.signup-form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.login-form h2,
+.signup-form h2 {
+    text-align: center;
+}
+
+/* Dashboard */
+.dashboard {
+    padding: 20px;
+}
+
+.dashboard h2 {
+    margin-bottom: 20px;
+}
+
+/* Admin Dashboard Specific */
+.admin-dashboard .admin-actions {
+    margin-top: 20px;
+}
+
+.admin-dashboard .admin-actions a {
+    display: block;
+    margin-bottom: 10px;
+}
+
+/* Book Request Form */
+.book-request-form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+/* Utility Classes */
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.margin-bottom {
+    margin-bottom: 20px;
+}
+
+.padding {
+    padding: 20px;
+}
+
+.border {
+    border: 1px solid #ddd;
+}
