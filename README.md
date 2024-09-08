@@ -33,3 +33,11 @@ In this task, I have made a Food Delivery Application using HTML, CSS, JavaScrip
 - Includes a screen for restaurants to view placed orders.
 - Features a screen for customers to see a list of restaurants and view available dishes.
 - Built using PHP and MySQL for dynamic data management and retrieval.
+
+### Task 6:
+In this task, I have made a Job Posting Application for Recruiters using HTML, CSS, JavaScript, PHP, and MySQL that:
+- Allows recruiters to create accounts, with admin approval required.
+- Enables recruiters to post jobs with details like job title, salary, description, candidate experience, and incentives.
+- Provides a platform for recruiters to view and apply for posted jobs, facilitating communication and candidate submission.
+- Implements an incentive distribution system where the employer's incentive is divided among the admin, job-posting recruiter, and candidate-providing recruiter.
+- Built using PHP and MySQL for dynamic data management and retrieval.
