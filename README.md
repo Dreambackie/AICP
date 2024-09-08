@@ -41,3 +41,10 @@ In this task, I have made a Job Posting Application for Recruiters using HTML, C
 - Provides a platform for recruiters to view and apply for posted jobs, facilitating communication and candidate submission.
 - Implements an incentive distribution system where the employer's incentive is divided among the admin, job-posting recruiter, and candidate-providing recruiter.
 - Built using PHP and MySQL for dynamic data management and retrieval.
+
+### Task 7-8:
+In this task I have made a Business Information Application using HTML, CSS, JavaScript, PHP, and MySQL that:
+- Allows users to view and search businesses by category and location.
+- Admin panel to add cities, towns, business categories, and business profiles.
+- Features sections for top businesses in food, healthcare, hotels, and education.
+- Built using PHP and MySQL for data management and retrieval. 
