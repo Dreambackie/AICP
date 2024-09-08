@@ -21,8 +21,15 @@ In this task I have made a Business Information Application using HTML, CSS, Jav
 
 ### Task 4:
 In this task, I have made a Library Management System using HTML, CSS, JavaScript, PHP, and MySQL that:
-
 - Allows users (students and teachers) to view and borrow books.
 - Admin panel to manage users (students and teachers), add books with details like title, pages, publisher, author, and edition.
 - Features options for admins to view, edit, and search for books.
 - Built using PHP and MySQL for data management and retrieval.
+
+### Task 5:
+In this task, I have made a Food Delivery Application using HTML, CSS, JavaScript, PHP, and MySQL that:
+- Allows restaurants and customers to sign up, with admin approval after verification.
+- Provides a screen for restaurants to add dishes with specific information.
+- Includes a screen for restaurants to view placed orders.
+- Features a screen for customers to see a list of restaurants and view available dishes.
+- Built using PHP and MySQL for dynamic data management and retrieval.
